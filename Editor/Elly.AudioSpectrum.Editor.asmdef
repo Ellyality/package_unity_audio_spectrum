@@ -1,0 +1,18 @@
+{
+    "name": "Elly.AudioSpectrum.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0dcf3606d5c23b04c8d0615590c5aaed"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -4,6 +4,7 @@
 using UnityEngine;
 using System.Collections;
 
+[AddComponentMenu("Ellyality/Visual/Audio Spectrum")]
 public class AudioSpectrum : MonoBehaviour
 {
     #region Band type definition
